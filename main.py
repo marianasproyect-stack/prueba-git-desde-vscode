@@ -60,4 +60,4 @@ print("\nResultado en formato LaTeX:")
 print(latex_resultado)
 print("")
 
-#Linea creada de desde diseñador1
+#Linea creada de desde diseñador....
